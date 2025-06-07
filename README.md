@@ -1,4 +1,4 @@
-# ❌ Cwelium Raider (DISCONTINUED) → 💎 Helium Raider (PAID)
+# 💎 Cwelium Raider (Back) → ❌️ Helium Raider (PAID)
 
 <div align="center">
   <strong>Helium Raider is the official paid successor - Cwelium is no longer maintained</strong>
